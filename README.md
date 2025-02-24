@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm nang sreypich</h1>
+<h1 align="center">Hi 👋, I'm Nang Sreypich</h1>
 <h3 align="center">A passionate full-stack developer from Cambodia</h3>
 
-- 🔭 I’m currently working on **load-management**
+- 🔭 I’m currently working on **loan-management-system**
 
 - 🌱 I’m currently learning **MongoDB**
 
